@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923949923728",
+    "project_id": "anaaa-a1b7a",
+    "storage_bucket": "anaaa-a1b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923949923728:android:c3a040d50b06ba75630715",
+        "android_client_info": {
+          "package_name": "com.example.newecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923949923728-1kfjgk3auumdr468s8o7iihq5dubcvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmCTBuqINvuid0nYS5MtLgf4zSzT6sOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923949923728-1kfjgk3auumdr468s8o7iihq5dubcvla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
